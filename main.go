@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/makikorp/puppy"
+	"github.com/makikorp/puppy/puppy"
 )
 
 func main() {
