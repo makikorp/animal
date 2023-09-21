@@ -1,2 +1,6 @@
+github.com/makikorp/animal/dog v0.0.0-20230921194512-1da76c4587d1 h1:iORckZgppqohZKHMmBn4kqrxTzXXyPMXgbH9mnYviCU=
+github.com/makikorp/animal/dog v0.0.0-20230921194512-1da76c4587d1/go.mod h1:5MEEAQ4b1E5omV1PTxQL+9VVOCY1K0tIWxsS4ji9KjI=
 github.com/makikorp/animal/puppy v0.0.0-20230921174106-c8b75396e1ba h1:Ae5TS2afU8h2RM5SCLDIpXQM1JxPv2+2FvebRu8y+gw=
 github.com/makikorp/animal/puppy v0.0.0-20230921174106-c8b75396e1ba/go.mod h1:9Ngytfa5tlKKklB4bFtw9VIFbC4KHicCuiTdaUBXDJw=
+github.com/makikorp/animal/puppy v0.0.0-20230921194512-1da76c4587d1 h1:v3IsUkZMXL3nH4Y76EeDNGZIkdp57ddcBGuIs9HQ7Hc=
+github.com/makikorp/animal/puppy v0.0.0-20230921194512-1da76c4587d1/go.mod h1:9Ngytfa5tlKKklB4bFtw9VIFbC4KHicCuiTdaUBXDJw=
